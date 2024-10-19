@@ -1,0 +1,66 @@
+
+
+        body style{
+            font-family: Arial, sans-serif;
+            background-color: blanchedalmond;
+            margin: 20px;
+            padding: 0;
+        }
+
+        h1, h2 {
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+
+        h1 {
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-top: 20px;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 5px;
+        }
+
+        
+           
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        .skill-list, .education-list {
+            margin-left: 20px;
+        }
+        button {
+            display: inline-block;
+            margin-right:8px;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white
+            border-radius 10px;
+            cursor: pointer;
+            }
+            table, th{
+                border: 2px solid blue;
+                border-collapse:collapse;
+            }
+            th,td{
+                padding: 9px;
+                border: 2px solid blue;
+                border-collapse: collapse;
+            }
+            th{
+                text-align: center;
+            }
+            th,td{
+                text-align: center;
+            }
+        
+        
+
+
+       
+        
+    
